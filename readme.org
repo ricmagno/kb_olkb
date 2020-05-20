@@ -1,0 +1,19 @@
+;; This buffer is for text that is not saved, and for Lisp evaluation.
+;; To create a file, visit it with <open> and enter text in its buffer.
+
+* Readme
+
+** Online keyboard configurator
+   - https://config.qmk.fm/#/preonic/rev3/LAYOUT_preonic_grid
+** DFU mode
+   - press and hold the reset button until the beep
+** Flash
+*** QMK Toolbox 
+    - ~brew cask install qmk-toolbox~
+*** Wally
+    - ~brew cask install zsa-wally~
+    - https://ergodox-ez.com/pages/wally-planck
+
+** More
+*** QMK Tutorial
+   - https://beta.docs.qmk.fm/tutorial/newbs_getting_started
